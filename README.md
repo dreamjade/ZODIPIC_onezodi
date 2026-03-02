@@ -2,7 +2,7 @@
 
 ```bash
 zodipic, inu, 1.2547439995901082, 0.575, pixnum=896, inc=0
-SAVE, FILENAME = '1zodi.sav', inu
+SAVE, FILENAME = '1zodi0.sav', inu
 
 ```
 
