@@ -1,4 +1,3 @@
-```markdown
 # ZODIPIC_onezodi
 
 ```bash
