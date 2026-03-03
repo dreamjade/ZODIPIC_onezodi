@@ -30,8 +30,8 @@ IDL> run_1zodi_loop
 * **`zodipic`**: The core IDL function that synthesizes images of 1-zodi exozodiacal dust by calculating scattered starlight and thermal emission from dust grains.
 * **`inu`**: The output variable storing the 2D image array of specific intensity ($I_\nu$), unit: Jy/pixel.
 * **Pixel Scale (mas/pixel)**: Defines the spatial scale of the simulation for a 6 m telescope observing at 575 nm. The two scripts use the following scales:
-* **1.2547439995901082**: Corresponds to a field of view of 56.875 $\lambda/D$.
-* **1.5884231731074778**: Corresponds to a field of view of 72 $\lambda/D$.
+* **1.2547439995901082 mas/pixel**: Corresponds to a field of view of 56.875 $\lambda/D$.
+* **1.5884231731074778 mas/pixel**: Corresponds to a field of view of 72 $\lambda/D$.
 
 
 * **`0.575`**: The observing wavelength in micrometers. At 0.575 µm (V band), the image is entirely dominated by scattered starlight.
